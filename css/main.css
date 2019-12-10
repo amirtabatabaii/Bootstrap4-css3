@@ -23,3 +23,9 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed; */
 }
+
+@media screen and (min-width: 476px) {
+    #projects {
+        text-align: center;
+    }
+}
